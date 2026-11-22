@@ -10,8 +10,8 @@ Environment bootstrap and game implementation were verified on an Android 17
 - Artifacts: `build/app/outputs/flutter-apk/app-*-release.apk`,
   `dist/BOMB-MATH-1.0.0-arm64.apk`
 - Tests: **34/34 passing**, `flutter analyze` clean (client + server)
-- Design: [`GAME_DESIGN.md`](GAME_DESIGN.md) · Environment:
-  [`../ENVIRONMENT_REPORT.md`](../ENVIRONMENT_REPORT.md)
+- Design: [`GAME_DESIGN.md`](GAME_DESIGN.md) · Environment: local
+  `ENVIRONMENT_REPORT.md` (machine-specific, not tracked in Git)
 
 ---
 

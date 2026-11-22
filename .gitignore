@@ -46,3 +46,4 @@ app.*.map.json
 /dist/
 /server/build/
 /server/data/
+/ENVIRONMENT_REPORT.md
